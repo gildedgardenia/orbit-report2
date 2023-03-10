@@ -1,0 +1,264 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`table component 1`] = `
+<table>
+  <thead>
+    <tr>
+      <th>
+        Id
+      </th>
+      <th>
+        Name
+      </th>
+      <th>
+        Type
+      </th>
+      <th>
+        Launch Date
+      </th>
+      <th>
+        Orbit Type
+      </th>
+      <th>
+        Operational
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        1
+      </td>
+      <td>
+        Sirius 1
+      </td>
+      <td>
+        Communication
+      </td>
+      <td>
+        2007-11-17
+      </td>
+      <td>
+        LOW
+      </td>
+      <td
+        style={
+          Object {
+            "color": "green",
+          }
+        }
+      >
+        true
+      </td>
+    </tr>
+    <tr>
+      <td>
+        2
+      </td>
+      <td>
+        Vanguard 1
+      </td>
+      <td>
+        Probe
+      </td>
+      <td>
+        1958-03-17
+      </td>
+      <td>
+        HIGH
+      </td>
+      <td
+        style={
+          Object {
+            "color": "red",
+          }
+        }
+      >
+        false
+      </td>
+    </tr>
+    <tr>
+      <td>
+        3
+      </td>
+      <td>
+        SNAP 10-A
+      </td>
+      <td>
+        Space Station
+      </td>
+      <td>
+        1965-11-01
+      </td>
+      <td>
+        HIGH
+      </td>
+      <td
+        style={
+          Object {
+            "color": "red",
+          }
+        }
+      >
+        false
+      </td>
+    </tr>
+    <tr>
+      <td>
+        4
+      </td>
+      <td>
+        Hubble Space Telescope
+      </td>
+      <td>
+        Telescope
+      </td>
+      <td>
+        1990-05-24
+      </td>
+      <td>
+        LOW
+      </td>
+      <td
+        style={
+          Object {
+            "color": "green",
+          }
+        }
+      >
+        true
+      </td>
+    </tr>
+    <tr>
+      <td>
+        5
+      </td>
+      <td>
+        Envisat
+      </td>
+      <td>
+        Probe
+      </td>
+      <td>
+        2002-03-01
+      </td>
+      <td>
+        LOW
+      </td>
+      <td
+        style={
+          Object {
+            "color": "red",
+          }
+        }
+      >
+        false
+      </td>
+    </tr>
+    <tr>
+      <td>
+        6
+      </td>
+      <td>
+        Thermal Blanket
+      </td>
+      <td>
+        Space Debris
+      </td>
+      <td>
+        N/A
+      </td>
+      <td>
+        LOW
+      </td>
+      <td
+        style={
+          Object {
+            "color": "red",
+          }
+        }
+      >
+        false
+      </td>
+    </tr>
+    <tr>
+      <td>
+        7
+      </td>
+      <td>
+        Morelos III
+      </td>
+      <td>
+        Communication
+      </td>
+      <td>
+        2012-12-19
+      </td>
+      <td>
+        LOW
+      </td>
+      <td
+        style={
+          Object {
+            "color": "green",
+          }
+        }
+      >
+        true
+      </td>
+    </tr>
+    <tr>
+      <td>
+        8
+      </td>
+      <td>
+        IIR-M
+      </td>
+      <td>
+        Positioning
+      </td>
+      <td>
+        2007-08-17
+      </td>
+      <td>
+        LOW
+      </td>
+      <td
+        style={
+          Object {
+            "color": "green",
+          }
+        }
+      >
+        true
+      </td>
+    </tr>
+    <tr>
+      <td>
+        9
+      </td>
+      <td>
+        ISS
+      </td>
+      <td>
+        Space Station
+      </td>
+      <td>
+        1998-11-20
+      </td>
+      <td>
+        LOW
+      </td>
+      <td
+        style={
+          Object {
+            "color": "green",
+          }
+        }
+      >
+        true
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
